@@ -19,6 +19,7 @@ document.getElementById('deposit-btn').addEventListener('click', function(){
         alert('Input money which you want to Deposit')
     }
 })
+// commentfdf
 
 // Withdraw setup
 
